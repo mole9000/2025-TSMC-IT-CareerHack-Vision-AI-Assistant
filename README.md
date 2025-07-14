@@ -25,11 +25,6 @@
   * `cv2`：處理影像旋轉的自定義函式
   * `Vertex AI`：進行圖像生成與提示分析
 
-* **前端介面**
-
-  * 使用 Next.js 打造直覺式 UI
-  * 內建雷達圖等視覺化元件
-
 ## 🎥 Demo
 
 ▶️ [Demo 影片連結](https://youtu.be/XsJ37pzegiA?si=WrSmjv6QgaHMD8nM)
